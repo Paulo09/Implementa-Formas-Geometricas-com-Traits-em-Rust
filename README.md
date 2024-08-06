@@ -1,5 +1,6 @@
 
-Implementando Formas Geométricas com Traits em Rust
+                                                Implementando Formas Geométricas com Traits em Rust
+                                                
 Entendendo o Problema
 Queremos criar uma estrutura em Rust que represente formas geométricas de forma genérica, utilizando o conceito de traits. Cada forma geométrica deverá ter métodos para calcular sua área, perímetro e, para fins de visualização, um método para "desenhar" a forma.
 
